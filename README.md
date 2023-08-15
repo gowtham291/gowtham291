@@ -1,4 +1,4 @@
-##  👋 Ope, Hello!
+##  👋 Hello!
 This is Gowtham Senthilkumar (he/him/his). 
 
 ### Words that should mostly make sense(?):
