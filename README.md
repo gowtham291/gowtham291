@@ -1,7 +1,7 @@
 ##  👋 Hello!
 This is Gowtham Senthilkumar (he/him/his). 
 
-### Words that should mostly make sense(?):
+### Words that should mostly make sense:
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gowtham291/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gowtham291/0" alt="Recent Article 0"> 
 <!--
 **gowtham291/gowtham291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
